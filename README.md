@@ -1,2 +1,2 @@
 # VerificarCSV
-Pagina web verifica se dois arquivos .csv são iguais.
+Página web verifica se dois arquivos .csv são iguais.
