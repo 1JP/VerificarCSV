@@ -1,0 +1,81 @@
+body{
+
+	font-family: arial, sans-serif;
+ 	margin:10px;
+
+}
+
+body h1{
+
+	text-align: center;
+
+}
+
+.btn{
+
+	position:absolute; 
+    top: 10%;
+    left: 49%;
+
+}
+
+.div1, .div2 input[type=file]{
+
+	text-align: center;
+
+}
+.div1, .div2 p{
+
+	text-align: center;
+
+}
+
+.div1{
+
+	width: 59%;
+  	float: left;
+
+}
+
+.div2{
+
+	width: 32%;
+  	float: left;
+
+}
+
+.div1 + .div2{
+
+	margin-left: 2%;
+
+}
+
+.div2 + .div1{
+
+	margin-left: 2%;
+
+}
+
+table {
+  
+  margin: 0 auto;
+  text-align: center;
+  border-collapse: collapse;
+  border: 1px solid #d4d4d4;
+  font-size: 8px;
+
+}
+ 
+tr:nth-child(even) {
+  background: #d4d4d4;
+}
+ 
+th, td {
+
+  padding: 2px 2px;
+
+}
+ 
+th {
+  border-bottom: 1px solid #d4d4d4;
+}     
